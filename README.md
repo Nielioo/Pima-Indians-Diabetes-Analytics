@@ -1,6 +1,6 @@
 # Pima-Indians-Diabetes-Analytics
 
-Statistic and Probability Final Project
+Statistic and Probability Final Project June 2022 [Semester 4]
 
 Analisis Klasifikasi Pima Indians Diabetes Database
 Dataset: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
